@@ -13,6 +13,7 @@ public class ClaseEjecutable {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        
         //Capturar el valor del método return
         MensajesConsola mensaje, mensajePrueba;
         mensaje = MensajesConsola.getInstance();

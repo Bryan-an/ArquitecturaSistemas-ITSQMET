@@ -8,7 +8,7 @@ package com.desarrollo.patronsingleton;
  * @author bryan
  */
 public class MensajesConsola {
-
+    
     //Atributo static
     private static MensajesConsola mensaje;
     private String valor;
